@@ -13,7 +13,7 @@ Abstract: Data scarcity is a perpetual challenge of recommendation systems, and 
 
   You can put the downloaded '.zip' files in `./data/` and run `python preprocess.py --dataset_name NL` to process the dataset.
 
-  To save memory, you can use "python preprocess_memory.py --dataset_name RU" to process the dataset. 
+  To save memory, you can run `python preprocess_memory.py --dataset_name RU` to process the dataset. 
 
 ## Preparations
 
